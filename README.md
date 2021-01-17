@@ -1,2 +1,2 @@
 # LEDmask
-LED Mask with speech-to-text and some other features
+LED Mask with speech-to-text
